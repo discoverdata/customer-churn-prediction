@@ -1,2 +1,2 @@
-# Predicting Customer Churn Behaviour using machine learning. [Click here]
+# Predicting Customer Churn Behaviour using machine learning. [Click here](https://discoverdata.github.io/customer-churn-prediction/)
 Customer churn is the percentage of customers that stop doing business or using products or services provided by the company within a certain period. It is important to predict customer churn and take measures to avoid it because the cost of acquiring new customers is often higher than retaining existing customers. Retention usually improves the margins as customers are likely to spend more over a longer period. 
